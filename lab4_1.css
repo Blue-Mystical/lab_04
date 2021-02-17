@@ -1,0 +1,16 @@
+.button {
+    color: purple;
+    border: 2px solid purple;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightpink;
+    font-weight: bold;
+}
+
+.text {
+    display: block;
+}
+
+.text.hidden {
+    display: none;
+}
